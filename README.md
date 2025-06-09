@@ -1,5 +1,5 @@
 PII Finder
-Author: @illumisec
+Author: @readysec
 
 This project is intended to provide a simple way of searching for Personally Identifiable Information (PII).
 
